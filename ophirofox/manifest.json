@@ -101,6 +101,7 @@
     , "https://nouveau-europresse-com.univ-eiffel.idm.oclc.org/"
     , "https://nouveau-europresse-com.ezproxy.unilim.fr/*"
     , "https://nouveau-europresse-com.ezproxy.uphf.fr/*"
+    , "https://nouveau-europresse-com.ezproxy.enssib.fr/*"
   ],
   "background": {
     "scripts": [
